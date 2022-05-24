@@ -1,4 +1,4 @@
-  <img src="https://img.shields.io/badge/BANGKIT_C22~PS174-CAPSTONE_PROJECT_PRODUCT_BASED-red" alt="badge" > <img src="https://img.shields.io/github/license/MrTwntyTwo/project-BADI" alt="badgeLicense">
+  <img src="https://img.shields.io/badge/BANGKIT_C22~PS174-CAPSTONE_PROJECT_PRODUCT_BASED-red" alt="badge" > 
 
 
   
