@@ -5,10 +5,7 @@
   
   
 <h1 align="center">
-  <br>
-  <img src="https://github.com/BADI-C22-PS174/.github/blob/1e7e7a0cbe59550d94066c1f6175780574dec435/profile/BADI%20Logo.png" alt="BADI" width="200"></a>
-  <br>
-<p align="center"> BADI </p>
+<p align="center"> BADI C22-PS174</p>
 
 
 ## Team C22-PS174
