@@ -1,8 +1,8 @@
 <h1 align="center">
-<p align="center">BADI (Capstone Project Product Based) </p>
+<p align="center">BADI</p>
 
 
-## Team C22-PS174
+## Team C22-PS174 (Capstone Project Product Based)
 | Name  | Bangkit ID | Learning Path |
 | ------------- | ------------- | ------------- |
 | Al Yafi | M7322F2821 | Machine Learning |
