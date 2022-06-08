@@ -50,7 +50,7 @@ python app.py
   
   
   
-  ## REFERENCE
+## REFERENCE
  - <a href="https://www.kaggle.com/datasets/akashdeepkuila/bakery">Dataset</a>
  - <a href="https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service">Deployment</a>  
  - <a href="https://firebase.google.com/docs/auth/android/firebaseui#kotlin+ktx">Auth Login for Mobile</a>
