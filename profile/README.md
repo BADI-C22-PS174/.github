@@ -39,7 +39,7 @@ git clone https://github.com/BADI-C22-PS174/Flask-ML.git
 ```sh
 pip install requirements.txt
 ```
- -Run on local 
+ - Run on local 
 ```sh
 python app.py
 ```
