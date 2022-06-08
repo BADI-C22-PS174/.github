@@ -26,7 +26,7 @@ git clone https://github.com/BADI-C22-PS174/Flask-ML.git
  - Run & Build using your android studio
   
   ##2. Authentication Login for mobile using Firebase
-  <a href="https://firebase.google.com/docs/auth/android/firebaseui#kotlin+ktx">How To Add Authentication Login Using Firebases</a>
+ - <a href="https://firebase.google.com/docs/auth/android/firebaseui#kotlin+ktx">How To Add Authentication Login Using Firebases</a>
   
   ##3. Installation Flask-ML
  - Clone the repo
@@ -43,14 +43,14 @@ python app.py
 ```
 
 ##4. Deploy Flask to Cloud
- <a href="https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service">Deploy Flask to Cloud Using Cloud Run</a>
+- <a href="https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service">Deploy Flask to Cloud Using Cloud Run</a>
   
   
   
   
   ##REFERENCE
-   <a href="https://www.kaggle.com/datasets/akashdeepkuila/bakery">Dataset</a>
-   <a href="https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service">Deployment</a>
-   <a href="https://firebase.google.com/docs/auth/android/firebaseui#kotlin+ktx">Auth Login for Mobile</a>
+  - <a href="https://www.kaggle.com/datasets/akashdeepkuila/bakery">Dataset</a>
+  - <a href="https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service">Deployment</a>
+  - <a href="https://firebase.google.com/docs/auth/android/firebaseui#kotlin+ktx">Auth Login for Mobile</a>
   
   
