@@ -54,5 +54,6 @@ python app.py
  - <a href="https://www.kaggle.com/datasets/akashdeepkuila/bakery">Dataset</a>
  - <a href="https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service">Deployment</a>  
  - <a href="https://firebase.google.com/docs/auth/android/firebaseui#kotlin+ktx">Auth Login for Mobile</a>
+ - <a href="https://github.com/BADI-C22-PS174/C22-PS174-Mobile-Development/blob/f37b80538a6c0b1c2f305a505d3bb919db047946/README.md">Library Mobile Depelopment</a>
   
   
