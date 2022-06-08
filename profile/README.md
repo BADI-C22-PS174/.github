@@ -15,7 +15,7 @@
   
   ## What is BADI?
   
-  BADI is an application to help business actors, especially MSME, in analyzing the results of selling their products. The results of the analysis will later make a prediction to measure the level of interest from consumers in the next sale. With these predictions, manufacturers will be able to increase production on certain products. This application can also make an estimate of the product when the best time for the product to be sold.
+  BADI is an application to help business actors, especially MSME, in analyzing the results of selling their products. The results of the analysis will later make a prediction to measure the level of interest from consumers in the next sale. With these predictions, manufacturers will be able to increase production on certain products.
 
   ## How it works?
 ⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
