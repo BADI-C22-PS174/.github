@@ -29,7 +29,7 @@ git clone https://github.com/BADI-C22-PS174/Flask-ML.git
   
 ## Userflow App Service
   <h1 align="center">
-  <img src="https://github.com/BADI-C22-PS174/C22-PS174-Cloud-Computing/blob/4aa13def1e6e9cf1d80b42f554321b5bf88ec22a/Service%20Cloud%20BADI.png" alt="BADI" width="200"></a>
+  <img src="https://github.com/BADI-C22-PS174/C22-PS174-Cloud-Computing/blob/4aa13def1e6e9cf1d80b42f554321b5bf88ec22a/Service%20Cloud%20BADI.png" alt="BADI" width="800"></a>
   
 ## Authentication Login for mobile using Firebase
  - <a href="https://firebase.google.com/docs/auth/android/firebaseui#kotlin+ktx">How To Add Authentication Login Using Firebases</a>
