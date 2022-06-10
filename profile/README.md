@@ -45,7 +45,7 @@ python app.py
 ```
 
 ## Deploy Flask to Cloud
-- <a href="https://cloud.google.com/run/docs/quickstarts/build-and-deploy/deploy-python-service">Deploy Flask to Cloud Using Cloud Run</a>
+- Deploy Flask to Cloud Using Compute Engine GCP
   
   
   
